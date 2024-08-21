@@ -1,6 +1,6 @@
 ---
 global:
-  pattern: my-vp-fork
+  pattern: multicloud-gitops
   options:
     useCSV: false
     syncPolicy: Automatic
